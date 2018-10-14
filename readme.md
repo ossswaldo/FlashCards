@@ -5,7 +5,8 @@
 
 ### App Walk-though
  
-<img src="http://recordit.co/P6RFlD0ZXM" width=200><br>
+<img src="http://recordit.co/P6RFlD0ZXM.gif" width=200><br>
+
 
 
 ## Required
