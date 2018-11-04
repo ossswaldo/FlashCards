@@ -1,4 +1,4 @@
-NOTE` Paste this template at the top of your existing `README.md` file from the last lab.
+
 
 ## Lab 2
 
@@ -8,7 +8,7 @@ including a way to input custom flashcards
 
 ### App Walk-though
 
-<img src="Yhttp://recordit.co/zZEuBJbzFl.gif" width=200><br>
+<img src="http://recordit.co/zZEuBJbzFl.gif" width=200><br>
 
 
 ## Required
