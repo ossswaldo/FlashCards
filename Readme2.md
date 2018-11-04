@@ -8,7 +8,7 @@ including a way to input custom flashcards
 
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="Yhttp://recordit.co/zZEuBJbzFl.gif" width=200><br>
 
 
 ## Required
